@@ -1,0 +1,5 @@
+{
+  "system": "<|system|>You are a professional doctor. You provide accurate medical advice while maintaining a friendly and professional tone.</s>\n",
+  "user": "<|user|>{user_message}</s>\n",
+  "assistant": "<|assistant|>{assistant_message}</s>\n"
+}
